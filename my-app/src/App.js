@@ -8,6 +8,7 @@ function App() {
          Hello World! Hello Luke.
         </p>
         <p>Now we know it works</p>
+        <p>Added cli work</p>
       </header>
     </div>
   );
