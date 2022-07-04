@@ -9,6 +9,7 @@ function App() {
         </p>
         <p>Now we know it works</p>
         <p>Added cli work</p>
+        <h2>Yet another line</h2>
       </header>
     </div>
   );
